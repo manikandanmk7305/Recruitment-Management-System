@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "123",
+      "id": "5f77"
+    },
+    {
+      "id": "6c6f",
+      "username": "admin",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "adaf",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "d342",
+      "username": "",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "userdet": [
+    {
+      "id": "3",
+      "username": "mk",
+      "age": "21",
+      "edu": "BSc",
+      "field": "Android developer",
+      "imgs": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1710547200&semt=ais"
+    },
+    {
+      "id": "4",
+      "username": "John",
+      "age": "20",
+      "edu": "BE",
+      "field": "web devoleper",
+      "imgs": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWTyoaGWt2NiTraqFiLxXHOjycegGKiJFjQ&usqp=CAU"
+    },
+    {
+      "id": "6",
+      "username": "amir",
+      "age": "22",
+      "edu": "BE",
+      "field": "Android developer",
+      "imgs": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcAtX8mpUJB_jGBi8bGk3vQpHSTuEtMm9kw&usqp=CAU"
+    },
+    {
+      "id": "1",
+      "username": "Petter",
+      "email": "petter@gm",
+      "phone": "9876543210",
+      "age": "23",
+      "edu": "BSc",
+      "field": "software tester",
+      "imgs": "https://img.freepik.com/premium-photo/modern-line-icon-cute-character-smiling-bold-lines-solid-color-pixel-perfect-isolate-minimalistic_68067-5210.jpg?size=338&ext=jpg&ga=GA1.1.1803636316.1701302400&semt=ais"
+    }
+  ]
+}
